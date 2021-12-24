@@ -587,6 +587,11 @@
       column-gap: 4%;
     }
   }
+ @media only screen and (max-width: 1800px) {
+    iframe{width:65vw;
+           height: 90vh;
+          }
+  }
   /* FOOTER LAYOUT ---------------------------------------------------------------- */
   .footer {
    background: linear-gradient(
