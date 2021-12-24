@@ -587,9 +587,9 @@
       column-gap: 4%;
     }
   }
- @media only screen and (max-width: 1800px) {
+ @media only screen and (min-width: 0) and (max-width: 1600px) {
     iframe{width:65vw;
-           height: 90vh;
+           height: 80vh;
           }
   }
   /* FOOTER LAYOUT ---------------------------------------------------------------- */
