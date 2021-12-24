@@ -211,7 +211,7 @@ body {
   width:65%;
 }
 .skillset__skill-text--4 {
-  width:99%;
+  width:98%;
 }
 .skillset__skill:not(:last-child) {
   margin-bottom: 1.3rem;
