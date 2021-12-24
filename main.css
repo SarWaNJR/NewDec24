@@ -202,16 +202,16 @@ body {
   text-align: center;
 }
 .skillset__skill-text--1 {
-  width: 90%;
+  width:90%;
 }
 .skillset__skill-text--2 {
-  width: 85%;
+  width:85%;
 }
 .skillset__skill-text--3 {
-  width: 65%;
+  width:65%;
 }
 .skillset__skill-text--4 {
-  width: 98%;
+  width:98%;
 }
 .skillset__skill:not(:last-child) {
   margin-bottom: 1.3rem;
